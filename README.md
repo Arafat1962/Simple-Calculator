@@ -54,7 +54,7 @@ Welcome to the Java Calculator program! This is a simple command-line calculator
      In this example, the result of `5 + 3` is `8.0`.
 
 [License]
-This project is licensed under the [MIT License](LICENSE.txt). You are free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the code as per the terms of the license.
 
 [Contributing]
 Contributions to this project are welcome. Feel free to open issues, submit pull requests, or provide suggestions to improve the calculator.
